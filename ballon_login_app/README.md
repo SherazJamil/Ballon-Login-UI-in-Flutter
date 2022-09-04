@@ -1,6 +1,7 @@
 # ballon_login_app
 
 A new Flutter application.
+In this application Ballon pic for bacground is used.
 
 ## Getting Started
 
